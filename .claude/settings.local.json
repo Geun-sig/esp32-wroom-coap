@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//d/esp-test/Wroom/**)",
+      "Read(//d/esp-test/Wroom//**)",
+      "Bash(upx --version)"
+    ]
+  }
+}

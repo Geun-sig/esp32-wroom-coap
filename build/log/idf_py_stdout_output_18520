@@ -1,0 +1,2 @@
+Command: C:\Users\user\.espressif\python_env\idf6.1_py3.13_env\Scripts\python.exe D:\esp\esp-idf\tools/idf_monitor.py -p COM19 -b 115200 --toolchain-prefix xtensa-esp32-elf- --target esp32 --revision 0 D:\esp-test\Wroom\coap\build\coap_thingsboard.elf D:\esp-test\Wroom\coap\build\bootloader\bootloader.elf --force-color -m 'C:\Users\user\.espressif\python_env\idf6.1_py3.13_env\Scripts\python.exe' 'D:\esp\esp-idf\tools\idf.py' '-p' 'COM19'
+could not open port '\\\\.\\COM19': FileNotFoundError(2, '지정된 파일을 찾을 수 없습니다.', None, 2)
