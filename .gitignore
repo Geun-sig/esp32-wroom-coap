@@ -1,0 +1,7 @@
+# ESP-IDF 빌드 결과물과 내려받은 라이브러리 (idf.py build 로 다시 생성됨)
+build/
+managed_components/
+sdkconfig.old
+
+# 로컬 도구 설정
+.claude/
